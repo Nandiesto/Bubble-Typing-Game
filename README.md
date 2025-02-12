@@ -24,4 +24,4 @@ A fun typing game where players pop bubbles by typing the letters inside them. T
 ## Installation:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/bubble-typing-game.git
+   git clone https://github.com/Nandiesto/bubble-typing-game.git
